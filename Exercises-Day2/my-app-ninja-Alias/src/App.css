@@ -1,0 +1,91 @@
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: white;
+} */
+
+.ArrowLogo{
+  height: 50px;
+}
+
+.Content{
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  width: 100%;
+}
+
+.title{
+  font-family: Roboto;
+  color: #252C3B;
+  font-size:25px;
+}
+
+.subtitle{
+  font-family: Roboto;
+  font-size: 10px;
+  line-height: 12px;
+  color: #6E7A90;
+}
+
+.Button-shop{
+  background: #0C96E4;
+  border-radius: 8px;
+  height: 50px;
+  width: 25%;
+}
+
+.inputs{
+  align-items: center;
+  display: flex;
+  width: 100%;
+}
+
+.Input-case{
+  border-radius: 8px;
+  margin-left: 2%;
+  text-align: center;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+/* .all-Content{
+  height: 100vh;
+  width: 100vw;
+  border: 4px red solid;
+  display: flex;
+  padding-left: 11%;
+  padding-top: 8%;
+}
+
+.Boxes{
+  height: 80vh;
+  width: 30vw;
+  border: 2px white solid;
+  justify-content: space-evenly;
+  margin-right: 10%;
+  background-color: white;
+}
+
+.Arrow-Logo-Box{
+  border: 1px solid black;
+  height: 5%;
+}
+
+
+
+.Title{
+  border: 1px solid blue;
+  height: 20vh;
+  color: black;
+} */
+

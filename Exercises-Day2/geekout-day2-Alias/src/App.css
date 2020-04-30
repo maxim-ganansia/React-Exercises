@@ -1,0 +1,39 @@
+
+.App-header {
+  background-color: indianred;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.User-message{
+  display: flex;
+  margin-top: 5%;
+}
+
+.input-message{
+  height: 30px;
+  width: 400px;
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.button-send{
+  height: 35px;
+  width: 100px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.ShowList{
+  list-style: none;
+}
+
