@@ -1,0 +1,83 @@
+.BoxContent{
+  width: 47vw;
+  height: 50vh;
+  background-color: #20E1FF;
+  display: flex;
+}
+
+.first-content{
+  width: 25vw;
+  height: 50vh;
+  text-align: center;
+  display: inline-block;
+}
+
+.Sun-image{
+  height: 70%;
+  margin-top: 10%;
+}
+
+.second-content{
+  display: inline-block;
+  text-align: right;
+  padding-left: 10%;
+  margin-top: 8%;
+  margin-right:20%;
+  font-size: 25px;
+}
+
+.Country{
+  color: white;
+}
+
+.Temperature{
+  color: White;
+}
+
+.BoxContent2{
+  background-color: #1A2430;
+  display: flex;
+  width: 47vw;
+  height: 50vh;
+}
+
+
+.Dates{
+  height: 50vh;
+  width: 8vw;
+  /* background-color: #1A2430; */
+  font-size: 25px;
+  color: white;
+  text-align: right;
+}
+
+.logoTemp{
+  height: 20%;
+  padding: 25%;
+}
+
+.status{
+  color: white;
+  padding: 8%;
+  font-size: 20px;
+  height: 25%;
+}
+
+.otherInfos{
+  color: white;
+  font-size: 20px;
+  height: 20%;
+  display: flex;
+}
+
+.logo2{
+  height: 60%;
+  margin-left: 20%;
+}
+
+.Text{
+  margin-left: 30%;
+}
+
+
+

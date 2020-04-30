@@ -1,0 +1,53 @@
+.Navbar{
+  background-color: white;
+  height: 12vh;
+  width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.NavbarChild1{
+  width: 70%;
+}
+
+.NavbarText{
+  color: black;
+  padding-right: 3%;
+  padding-left: 3%;
+  font-weight: bold;
+}
+
+.BoxContent{
+  background-color:#EF7D73;
+  height: 55vh;
+  width: 100vw;
+}
+
+.Content1{
+  text-align: center;
+  padding-top: 5%;
+  color: white;
+  font-size: 23px;
+  text-align: center;
+} 
+
+.middlePart{
+  display: flex;
+}
+
+.Content2{
+  text-align: center;
+  color: white;
+}
+
+.image{
+  width: 60%;
+  height: 60%;
+}
+
+.informations{
+  text-align: center;
+  width: 30%;
+  padding-left: 35%;
+}
